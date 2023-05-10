@@ -9,7 +9,7 @@ namespace VHS
             [Space,Header("Input Data")]
             [SerializeField] private CameraInputData cameraInputData = null;
             [SerializeField] private MovementInputData movementInputData = null;
-            [SerializeField] private InteractionInputData interactionInputData = null;
+            //[SerializeField] private InteractionInputData interactionInputData = null;
         #endregion
 
         #region BuiltIn Methods
